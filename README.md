@@ -5,10 +5,7 @@ MA4240 - Applied Statistics, course work project for evaluation of grades
 Abstract
 ---
 Smartphones have become an indispensable part of our everyday lives, yet there is
-growing concern about the possible detrimental effects of excessive screen time. We con-
-ducted a survey as students to investigate the consequences of smartphone use on physical
-health, mental health, academic performance, and social behaviour. Our study concentrated
-on smartphone usage, which is currently the most popular gadget.
+growing concern about the possible detrimental effects of excessive screen time. We conducted a survey as students to investigate the consequences of smartphone use on physical health, mental health, academic performance, and social behaviour. Our study concentrated on smartphone usage, which is currently the most popular gadget.
 
 Project Structure
 ---
